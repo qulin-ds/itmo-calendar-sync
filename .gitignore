@@ -1,0 +1,9 @@
+.env
+.env.*
+.clasp.json
+credentials*
+secrets*
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
