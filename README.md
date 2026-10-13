@@ -1,5 +1,11 @@
 # 📅 ITMO Calendar Sync
 
+**Стек:** JavaScript · Google Apps Script · Google Calendar
+
+![Демонстрационная схема синхронизации](docs/images/calendar-demo.svg)
+
+*Иллюстрация с вымышленными занятиями: показывает путь данных и результат синхронизации.*
+
 **Расписание My ITMO в Google Календаре и на iPhone — с обновлением каждый час.**
 
 [Установка](docs/setup.md) · [Настройка и команды](docs/customization.md) · [Ошибки](docs/troubleshooting.md)
