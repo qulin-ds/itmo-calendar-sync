@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430">
+<rect width="1120" height="430" rx="18" fill="#f8fafc"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="38" y="53" font-size="27" font-weight="700" fill="#0f172a">ITMO Calendar Sync</text>
+<text x="38" y="82" font-size="15" fill="#64748b">Демонстрационная иллюстрация · вымышленные занятия</text>
+<rect x="38" y="118" width="286" height="242" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="58" y="150" font-size="18" font-weight="600" fill="#0f172a">My ITMO</text>
+<text x="58" y="185" font-size="15" fill="#334155">11:30 · Веб-программирование</text>
+<text x="58" y="218" font-size="15" fill="#334155">13:30 · Спортивное занятие</text>
+<text x="58" y="251" font-size="15" fill="#334155">15:30 · Базы данных</text>
+<text x="58" y="326" font-size="13" fill="#64748b">Персональное расписание</text>
+<text x="340" y="248" font-size="28" fill="#2563eb">→</text>
+<rect x="382" y="118" width="268" height="242" rx="12" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="402" y="150" font-size="18" font-weight="600" fill="#0f172a">Google Apps Script</text>
+<text x="402" y="192" font-size="15" fill="#334155">Обновление раз в час</text>
+<text x="402" y="225" font-size="15" fill="#334155">Проверка ответа</text>
+<text x="402" y="258" font-size="15" fill="#334155">Сверка событий</text>
+<text x="402" y="326" font-size="13" fill="#64748b">Компьютер может быть выключен</text>
+<text x="668" y="248" font-size="28" fill="#2563eb">→</text>
+<rect x="710" y="118" width="372" height="242" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="730" y="150" font-size="18" font-weight="600" fill="#0f172a">Календарь «Учёба ИТМО»</text>
+<rect x="730" y="172" width="330" height="42" rx="6" fill="#dbeafe"/><text x="744" y="198" font-size="14" fill="#1e40af">11:30–13:00 · Веб-программирование</text>
+<rect x="730" y="220" width="330" height="42" rx="6" fill="#dbeafe"/><text x="744" y="246" font-size="14" fill="#1e40af">13:30–15:00 · Спортивное занятие</text>
+<rect x="730" y="268" width="330" height="42" rx="6" fill="#dbeafe"/><text x="744" y="294" font-size="14" fill="#1e40af">15:30–17:00 · Базы данных</text>
+<text x="730" y="338" font-size="13" fill="#64748b">Google Calendar + Apple Calendar</text>
+<text x="38" y="400" font-size="14" fill="#64748b">Предпросмотр перед запуском · отдельный календарь · защита от пустого ответа</text>
+</g></svg>
